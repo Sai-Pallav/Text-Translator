@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
     react()],
-    base: "/Text-Translator",
+    base: '/Text-Translator',
 })
